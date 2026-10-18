@@ -30,27 +30,6 @@ Libraries & Frameworks
 - PyAudio
 
 
-📂 Project Structure
-
-Gesture-to-Text-and-Speech-to-Text/
-│
-├── gesture_recognition/
-│   ├── dataset/
-│   ├── model/
-│   ├── train_model.py
-│   ├── predict_gesture.py
-│
-├── speech_to_text/
-│   ├── speech_recognition.py
-│
-├── app/
-│   ├── main.py
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-
-
 
 📸 How It Works
 
